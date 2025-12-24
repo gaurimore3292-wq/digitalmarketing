@@ -19,7 +19,7 @@ how website are promoted online using SEO technique and social media platforms.
 -Meta Tags Optimization
 
 ## Live Website
-(Past your GitHub Pages link here)
+(https://gaurimore3292-wq.github.io/digitalmarketing/)
 
 ## Created By
 Aarvi
